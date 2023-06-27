@@ -1,7 +1,7 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c0f9b95746151.5e9ecde69599e.gif)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c0f9b95746151.5e9ecde69599e.gif)](https://ChetanManral999.io)
 <h1 align="center">Hi 👋, I'm Chetan Manral</h1>
 <h3 align="center">A passionate front-end and backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://tse4.mm.bing.net/th?id=OIP.VON9gHTrzeHZbHfXsqfzEAHaEq&pid=Api&P=0&h=180">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetanmanral999&label=Profile%20views&color=0e75b6&style=flat" alt="chetanmanral999" /> </p>
 
